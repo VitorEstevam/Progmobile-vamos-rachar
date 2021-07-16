@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#E9100112"
+    android:background="#E9272302"
     android:contentDescription="@null"
     android:gravity="center_horizontal"
     android:orientation="vertical"
@@ -26,7 +26,7 @@
         android:text="@string/title"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
         android:textColor="#FFFFFF"
-        android:textSize="50sp"
+        android:textSize="36sp"
         android:textStyle="bold" />
 
     <LinearLayout
@@ -38,7 +38,7 @@
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="352dp"
-            android:layout_height="wrap_content"
+            android:layout_height="80dp"
             android:layout_weight="1"
             android:contentDescription="@string/desc_insert_value"
             app:srcCompat="@drawable/img_money_foreground" />
@@ -65,7 +65,7 @@
 
         <ImageView
             android:layout_width="352dp"
-            android:layout_height="wrap_content"
+            android:layout_height="80dp"
             android:layout_weight="1"
             android:contentDescription="@string/desc_insert_number_of_people"
             android:foregroundTint="#FF1515"
@@ -84,10 +84,6 @@
             android:textSize="36sp" />
 
     </LinearLayout>
-
-    <Space
-        android:layout_width="match_parent"
-        android:layout_height="51dp" />
 
     <LinearLayout
         android:layout_width="120dp"
@@ -132,7 +128,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="51dp" />
+        android:layout_height="33dp" />
 
     <LinearLayout
         android:layout_width="wrap_content"
