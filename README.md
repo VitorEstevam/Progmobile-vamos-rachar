@@ -1,4 +1,4 @@
-# atividade-kotlin
+# vamo rachar!
   Aqui ficam as atividades fetias com base no "vamos rachar" feito na cadeira de PDM
 
 ### A branch main está na atividade mais recente (at03)
