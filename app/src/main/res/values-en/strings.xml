@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Vamos Rachar</string>
-    <string name="title">Lets Split</string>
+    <string name="title">Lets split</string>
     <string name="desc_insert_value">Insert the value beside</string>
     <string name="desc_insert_number_of_people">Insert the number of people beside</string>
-    <string name="desc_share_the_value">share the value</string>
-    <string name="desc_listen_the_value">listen the value</string>
+    <string name="desc_share_the_value">Share the value</string>
+    <string name="desc_listen_the_value">lLsten the value</string>
 </resources>

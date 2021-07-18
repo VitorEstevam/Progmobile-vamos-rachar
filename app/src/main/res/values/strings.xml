@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Vamos Rachar</string>
-    <string name="title">Vamos Rachar</string>
+    <string name="title">Vamos Rachar!</string>
     <string name="desc_insert_value">insira o valor ao lado</string>
     <string name="desc_insert_number_of_people">insira o numero de pessoas ao lado</string>
     <string name="desc_share_the_value">compartilhe o valor</string>
